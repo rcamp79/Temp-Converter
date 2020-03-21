@@ -1,0 +1,10 @@
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\bin\Debug\TempConvert2.exe.config
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\bin\Debug\TempConvert2.exe
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\bin\Debug\TempConvert2.pdb
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\obj\Debug\TempConvert2.csprojAssemblyReference.cache
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\obj\Debug\TempConvert2.Form1.resources
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\obj\Debug\TempConvert2.Properties.Resources.resources
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\obj\Debug\TempConvert2.csproj.GenerateResource.cache
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\obj\Debug\TempConvert2.csproj.CoreCompileInputs.cache
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\obj\Debug\TempConvert2.exe
+C:\Users\rmatt\Documents\CITC\2311\TempConvert2\obj\Debug\TempConvert2.pdb
